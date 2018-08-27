@@ -25,10 +25,20 @@
             android:orientation="vertical" >
 
             <TextView
-                android:id="@+id/textView3"
+                android:id="@+id/workExperience"
+                android:layout_margin="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextViewTextView" />
+                android:text="Work ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork Experience"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/workExperience2"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Work ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork ExperienceWork Experience"
+                android:textAlignment="center" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
